@@ -1,8 +1,8 @@
-# Личный проект «Нёрдс»
+# Личный проект «Conect»
 
 ---
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
-_`.editorconfig`, `.gitattributes`, `.gitignore`, `Contributing.md`, `Readme.md`._
+_`.editorconfig`, `.gitattributes`, `.gitignore`, `Readme.md`._
 
 ---
